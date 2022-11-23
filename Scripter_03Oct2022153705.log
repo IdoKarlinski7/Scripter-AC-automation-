@@ -1,0 +1,6 @@
+15:37:05: Opening Neurolyser Dialog
+15:37:08: In: CScripterDlg::OnBnClickedButtonLoad
+15:37:08: Back from default log
+15:38:50: In If
+15:38:51: Out: CScripterDlg::OnBnClickedButtonLoad, Ticks: (103047)
+15:38:53:  test
